@@ -1,0 +1,192 @@
+.otmen:hover{
+  background-color:red;
+  -webkit-border-top-left-radius: 10px; 
+  -webkit-border-top-right-radius: 10px; 
+  -webkit-border-bottom-right-radius: 15px; 
+  -webkit-border-bottom-left-radius: 15px;
+}
+.div_search{
+margin-top:20px;
+margin-left:120px;
+}
+.div_name{
+margin-left:30px;
+}
+.header_td_1{
+width:250px;
+}
+.header_td_2{
+width:500px;
+}
+.header_td_3{
+width:200px;
+}
+
+.table{
+	width: 100%; /* Ширина таблицы */
+    border: 4px double black; /* Рамка вокруг таблицы */
+    border-collapse: collapse; /* Отображать только одинарные линии */
+	}
+	.search{
+	  background-color:#eeeeee;
+	  width:230px;
+	  height:18px;	
+	}
+	.th{
+	text-align: left; /* Выравнивание по левому краю */
+    background: #ccc; /* Цвет фона ячеек */
+    padding: 5px; /* Поля вокруг содержимого ячеек */
+    border: 1px solid black; /* Граница вокруг ячеек */
+	}
+	.td{
+	padding: 5px; /* Поля вокруг содержимого ячеек */
+    border: 1px solid black; /* Граница вокруг ячеек */
+	}
+	input{
+	  width:180px;
+	  height:30px;
+	}
+	select{
+	  width:180px;
+	  height:30px;
+	}
+	#td_text{
+	  width:250px;
+	  height:150px;
+	}
+		#td_text2{
+	  width:380px;
+	  height:150px;
+	}
+		#td_cena{
+	  color:blue;
+	  width:70px;
+	  height:150px;
+	}
+		#td_name{
+	  width:100px;
+	  height:150px;
+	}
+
+img{
+  width:200px;
+  height:180px;
+}
+.img{
+  width:800px;
+  height:550px;
+}
+.img2{
+  width:800px;
+  height:200px;
+}
+a{
+  color:#ff0000;
+  text-decoration: none;
+}
+a:hover{
+  color:#383838;
+}
+    body{
+	  padding: 0;
+	  margin: 0;
+	  background-color:#eeeeee;
+	}
+	p{
+	  margin-left:90px;
+	  margin-right:90px;
+	  color:#000;
+	  font-family: Times New Roman;
+	  font-size: 20px;
+	}
+	hr{
+	  width: 60%;
+	}
+	.form{
+	}
+	.submit{
+	  font-size:18px;
+	  color:#ff0000;
+	  width:150px;
+	  height:51px;
+	}
+	.input{
+	  font-size:18px;
+	  color:#ff0000;
+      background-color:#eeeeee;
+	  width:200px;
+	  height:44px;
+	}
+	.big_content{
+	  margin:0 auto;
+	  width:850px;
+	  min-width:850px;
+	  max-width:850px;
+	  border: solid 1px;
+	  border-color:#838b8b;
+	}
+	.content{
+	margin:0 auto;
+	width:800px;
+    min-height:500px;
+	}
+	.header{
+	  background-image:url(http://11111.ru/images/fon_content.png);
+	  height:70px;
+	}
+	.menu{
+	  margin-bottom:20px;
+	  box-shadow: 0px 6px 17px #383838;
+	  background-image:url(http://11111.ru/images/menux.png);
+	  height:50px;
+	  border-top: solid 1px;
+	  border-bottom: solid 2px;
+	  border-color:#838b8b;
+	}
+	.menu > ul{
+	  margin: 0px;
+	  padding: 0px;
+	  list-style: none;
+	}
+	.menu > ul > li{
+	  margin: 0px;
+	  padding: 0px;
+	}
+	.menu > ul > li:hover{
+	  background-color: #aeaeae;
+	}
+	.menu > ul > li:hover > a{
+	  color: #fff;
+	}
+	.menu{
+	  padding: 0 0 0 70px;
+	}
+	.menu li{
+	  float: left;
+	  font-size: 15px;
+	  margin: 0 0 0 0;
+	  height: 51px;
+	  border-left: 1px solid #cacaca;
+	}
+	.menu li a{
+	  color:#191970;
+	  padding: 10px 9px 0 9px;
+	  display: block;
+	  height: 30px;
+	}
+	.menu a{
+	  text-decoration: none;
+	  font-size: 23px;
+	}
+	.footer{
+	  margin-top:20px;
+	  background-image:url(http://11111.ru/images/footer.png);
+	  height:40px;
+	  border-top: solid 1px;
+	  border-color: #838b8b;
+	}
+	.text{
+	  color:blue;
+	  font-family: Times New Roman;
+	  font-size: 25px;
+	}
